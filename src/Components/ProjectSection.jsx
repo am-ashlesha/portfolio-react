@@ -5,7 +5,7 @@ const projects=[
         id:1,
         title:"Todo-List",
         description:"This is a To-Do List application built using TypeScript and powered by Vite for fast development and build performance.The app provides a modern and responsive user interface, making task management simple and visually appealing.",
-        image:"public/todo.png",
+        image:"/public/todo.png",
         tags:["React","TaiwindCss","Typescript","Vite"],
         demoUrl:"https://todo-list-ashen-one.vercel.app/",
         githubUrl:"https://github.com/am-ashlesha/Todo-List "
