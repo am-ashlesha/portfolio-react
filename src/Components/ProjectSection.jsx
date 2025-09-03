@@ -5,7 +5,7 @@ const projects=[
         id:1,
         title:"Todo-List",
         description:"This is a To-Do List application built using TypeScript and powered by Vite for fast development and build performance.The app provides a modern and responsive user interface, making task management simple and visually appealing.",
-        image:"/public/todo.png",
+        image:"/todo.png",
         tags:["React","TaiwindCss","Typescript","Vite"],
         demoUrl:"https://todo-list-ashen-one.vercel.app/",
         githubUrl:"https://github.com/am-ashlesha/Todo-List "
@@ -14,7 +14,7 @@ const projects=[
         id:2,
         title:"BookLog",
         description:"Booklog is a simple and responsive book blogging platform built with HTML, CSS, PHP, and Bootstrap, designed for sharing and exploring book reviews effortlessly.",
-        image:"/public/booklog.png",
+        image:"/booklog.png",
         tags:["HTML Bootstrap","Php","MySQL"],
         demoUrl:"https://thebooklog-two.vercel.app/",
         githubUrl:"https://github.com/am-ashlesha/thebooklog "
@@ -23,7 +23,7 @@ const projects=[
         id:3,
         title:"Pixplorer",
         description:"A dynamic React-based gallery application that fetches and displays images based on user search input, providing a fast, responsive, and visually appealing way to explore pictures.",
-        image:"/public/pixplorer.png",
+        image:"/pixplorer.png",
         tags:["React","TaiwindCss",],
         demoUrl:"https://react-pixplorer.vercel.app/",
         githubUrl:"https://github.com/am-ashlesha/React-Pixplorer"
